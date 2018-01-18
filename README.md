@@ -6,3 +6,4 @@ php常用程序模块——学习笔记
 ### 利用api接口发送短信模块-><a href="https://github.com/huidge/PHP_Module/blob/master/sendsms.php">sendsms.php</a>
 ### php木马1控制主机-><a href="https://github.com/huidge/PHP_Module/blob/master/muma1.php">muma1.php</a>
 ### php木马2控制主机-><a href="https://github.com/huidge/PHP_Module/blob/master/muma2.php">muma2.php</a>
+### 访问次数统计（刷新不会次数增加）-><a href="https://github.com/huidge/PHP_Module/blob/master/count/session_count.php">session_count.php</a>

@@ -9,7 +9,7 @@
 		fclose($fp);
 	}
 	?>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
  <head>
   <title> 防止页面刷新影响计数效果 </title>
